@@ -1,4 +1,4 @@
-package com.lncwwn.dp.factory.general;
+package com.lncwwn.dp.factory.generalFactory;
 
 /**
  * Test the general factory method.

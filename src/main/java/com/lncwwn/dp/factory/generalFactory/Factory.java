@@ -1,4 +1,4 @@
-package com.lncwwn.dp.factory.general;
+package com.lncwwn.dp.factory.generalFactory;
 
 /**
  * general factory to create sender instance.
